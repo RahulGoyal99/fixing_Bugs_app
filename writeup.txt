@@ -1,0 +1,2 @@
+In this program we are taking input from user to choose the operation he want to do.
+In Sorting i have used Selection sort and for Searching i have used Linear search algorithms.
